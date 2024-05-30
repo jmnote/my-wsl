@@ -1,5 +1,5 @@
 # my-wsl
 
 # prerequisites
-- WSL 2.x latest (Windows Store)
+- WSL 2.x latest (Microsoft Store)
 - enable systemd
